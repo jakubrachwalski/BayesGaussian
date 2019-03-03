@@ -1,5 +1,5 @@
 # BayesGaussian
-Code implementing Thompson Sampling with Gaussian distribution.
+Code implementing Thompson Sampling with Gaussian distribution (Bayesian Machine Learning - AB Testing)
 
 The model of each machine is using Online Machine learning -
 the model is improved with each following sample.
