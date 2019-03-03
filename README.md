@@ -15,5 +15,3 @@ Three variations of the problem are presented:
 * Distribution approximation: Gaussian unknown mean, known variance (GaussianMean.py)
 * Distribution approximation: Gaussian known mean, unknown variance (GaussianVariance.py)
 * Distribution approximation: Gaussian unknown mean, unknown variance (GaussianMeanVariance.py)
-
-author: kuba.rachwalski@gmail.com
